@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>anchor_New Products</name>
+   <tag></tag>
+   <elementGuidId>8846ac84-1bd9-45e7-b49c-81ffc8d36e5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.site-secondary-font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/aside/aside/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>610e8e3a-37fa-4583-bd5d-d6db53572939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-secondary-font</value>
+      <webElementGuid>86a67830-9752-4484-8434-0f1138a0e792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://kotakoki.wijaysali.my.id/shop-2/?new-products=1</value>
+      <webElementGuid>68c5f535-73fa-4657-9882-6acd983fa995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>     New Products</value>
+      <webElementGuid>29c59555-4696-472b-a6bb-fa56a6203b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-3 columns show-for-large&quot;]/div[@class=&quot;woocommerce-sidebar-sticky&quot;]/aside[@class=&quot;site-sidebar site-sidebar--shop widget-area&quot;]/aside[@class=&quot;widget woocommerce widget_product_categories_with_icon&quot;]/ul[@class=&quot;product-categories-with-icon&quot;]/li[@class=&quot;cat-item&quot;]/a[@class=&quot;site-secondary-font&quot;]</value>
+      <webElementGuid>a1c87b78-4510-41c5-8cd2-b9d9e8155c12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/aside/aside/ul/li/a</value>
+      <webElementGuid>cc7b1837-e3e7-4bb8-8b07-0aef6efd1831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[1]</value>
+      <webElementGuid>ee38bc70-f9fc-44cf-81f5-481654abee1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[4]/following::a[1]</value>
+      <webElementGuid>6b9b53dc-2208-4149-af9a-fa5d1c3593a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uncategorized'])[2]/preceding::a[2]</value>
+      <webElementGuid>c78f5f92-9ce0-492a-94b9-51d3e1f82e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Products']/parent::*</value>
+      <webElementGuid>59df778b-560e-4aae-82ab-1259d4d4ef58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://kotakoki.wijaysali.my.id/shop-2/?new-products=1']</value>
+      <webElementGuid>4e474890-01be-4a69-9c5f-576e83cb2a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li/a</value>
+      <webElementGuid>d0cb908c-fcf8-41e7-af1a-71e4eb4190f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://kotakoki.wijaysali.my.id/shop-2/?new-products=1' and (text() = '     New Products' or . = '     New Products')]</value>
+      <webElementGuid>2b7e2ed1-a838-43e1-8ab3-49d35241a8f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

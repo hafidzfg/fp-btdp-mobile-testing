@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>anchor_KOTAKOKI SET</name>
+   <tag></tag>
+   <elementGuidId>c22133e3-d892-4770-939e-b2359fb19298</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.cat-item.cat-item-83 > a.site-secondary-font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/aside/aside/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1b0e2cd4-5c7b-4c43-b37b-71bf28857ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-secondary-font</value>
+      <webElementGuid>27ebf545-9572-465a-982a-8a00e06595a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://kotakoki.wijaysali.my.id/product-category/kotakoki-set/</value>
+      <webElementGuid>46f5371b-96a7-40ed-a3e6-9abcd3a15dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KOTAKOKI SET</value>
+      <webElementGuid>2d17af9f-f004-4005-be5d-3cbccf6480d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-3 columns show-for-large&quot;]/div[@class=&quot;woocommerce-sidebar-sticky&quot;]/aside[@class=&quot;site-sidebar site-sidebar--shop widget-area&quot;]/aside[@class=&quot;widget woocommerce widget_product_categories_with_icon&quot;]/ul[@class=&quot;product-categories-with-icon&quot;]/li[@class=&quot;cat-item cat-item-83&quot;]/a[@class=&quot;site-secondary-font&quot;]</value>
+      <webElementGuid>8ce7379b-1d85-4ac2-9b66-af8aa97ba48d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/aside/aside/ul/li[7]/a</value>
+      <webElementGuid>e0a05759-aaec-448b-9319-0226b978bd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'KOTAKOKI SET')]</value>
+      <webElementGuid>92261dfe-d722-49b1-ab3f-21dd79e18b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME PAGE'])[2]/following::a[1]</value>
+      <webElementGuid>669b1a42-97a3-41be-99c9-b9d1ac690407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Du-reamyドリアン'])[2]/following::a[2]</value>
+      <webElementGuid>62d66239-9aaa-49ee-b834-ee14c255b0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIPILTIN COCOA'])[2]/preceding::a[1]</value>
+      <webElementGuid>c3e64458-3139-45a8-93a5-51b9d84bcf84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='READY TO EAT'])[2]/preceding::a[2]</value>
+      <webElementGuid>b808d2ac-1c4d-48cb-863d-41bde38d9c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://kotakoki.wijaysali.my.id/product-category/kotakoki-set/']</value>
+      <webElementGuid>606a4857-ad95-4085-8c24-59813f325006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>ce2eb8c4-784b-4f91-883f-9b752d47cac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://kotakoki.wijaysali.my.id/product-category/kotakoki-set/' and (text() = 'KOTAKOKI SET' or . = 'KOTAKOKI SET')]</value>
+      <webElementGuid>e331dd4e-8754-4a77-9a02-be2a7cdd0588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Product4_Belt_ProductName</name>
+   <tag></tag>
+   <elementGuidId>705c4e76-44d5-495e-adb2-082277c476d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-239.status-publish.last.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > a.title > h2.woocommerce-loop-product__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[4]/div/div[2]/div/a/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bd0deb87-ac89-48bb-9a4a-197894001d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-loop-product__title</value>
+      <webElementGuid>72dd6241-a234-4a7a-876f-bcbaff06435a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Belt</value>
+      <webElementGuid>2f523ebc-2cd5-4b79-8173-5446c484c5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-152&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1519815605942&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;woocommerce columns-4&quot;]/ul[@class=&quot;products columns-4 js_animated&quot;]/li[@class=&quot;product type-product post-239 status-publish last instock product_cat-uncategorized has-post-thumbnail sale shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/a[@class=&quot;title&quot;]/h2[@class=&quot;woocommerce-loop-product__title&quot;]</value>
+      <webElementGuid>9b57c72b-030e-418f-b9dc-b6463bb6fc10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[4]/div/div[2]/div/a/h2</value>
+      <webElementGuid>a11885a5-a511-46d1-9961-4bf8fe075804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[2]/following::h2[1]</value>
+      <webElementGuid>e9b0c40d-4802-464c-af80-c33844e70076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[3]/following::h2[1]</value>
+      <webElementGuid>e6b10186-a3a4-46d7-b261-4228c11e822d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[8]/preceding::h2[1]</value>
+      <webElementGuid>e4adc9b7-a853-49e3-8b6f-db110d82ce2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[9]/preceding::h2[1]</value>
+      <webElementGuid>657d59d0-642c-4ae1-aefe-7ff844032aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Belt']/parent::*</value>
+      <webElementGuid>a5935ec0-90b4-49df-8966-eee82d15c3d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div[2]/div/a/h2</value>
+      <webElementGuid>ce373a2e-7ab4-4ee6-a9c1-fdbdbfc36f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Belt' or . = 'Belt')]</value>
+      <webElementGuid>cb2f91c3-5604-4610-b5e8-0ace07ed8646</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

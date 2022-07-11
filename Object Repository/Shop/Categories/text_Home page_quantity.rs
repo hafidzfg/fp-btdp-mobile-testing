@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Home page_quantity</name>
+   <tag></tag>
+   <elementGuidId>046136ef-fb79-4796-ad8d-f99601052264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.cat-item.cat-item-84 > span.count</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/aside/aside/ul/li[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c98c92c6-373e-4ae9-8d77-bb0505b2a4f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>count</value>
+      <webElementGuid>8be5fab4-23fa-4bbf-ab31-34c07f8d20c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>abe90658-5ed1-470b-980d-1ae882872fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-3 columns show-for-large&quot;]/div[@class=&quot;woocommerce-sidebar-sticky&quot;]/aside[@class=&quot;site-sidebar site-sidebar--shop widget-area&quot;]/aside[@class=&quot;widget woocommerce widget_product_categories_with_icon&quot;]/ul[@class=&quot;product-categories-with-icon&quot;]/li[@class=&quot;cat-item cat-item-84&quot;]/span[@class=&quot;count&quot;]</value>
+      <webElementGuid>eecf6999-4e5e-415e-83d0-449ece50cf6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/aside/aside/ul/li[6]/span</value>
+      <webElementGuid>343c74d6-448c-4f19-8d98-fecfacceb7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME PAGE'])[2]/following::span[1]</value>
+      <webElementGuid>3350d59c-3400-4829-b2ba-9e117f2f6792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Du-reamyドリアン'])[2]/following::span[2]</value>
+      <webElementGuid>ef485880-27d0-4b67-a2cc-7f008fb15a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KOTAKOKI SET'])[2]/preceding::span[1]</value>
+      <webElementGuid>a0d72598-610a-415d-8b25-6c9cfb9f47f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PIPILTIN COCOA'])[2]/preceding::span[2]</value>
+      <webElementGuid>3579e4eb-d6df-4647-9a8c-ec10c52f2984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span</value>
+      <webElementGuid>edd86337-2a6d-418d-ba03-b55f75c58d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0' or . = '0')]</value>
+      <webElementGuid>25903782-113a-4a1c-aece-9120e6e46177</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Keep me signed in</name>
+   <tag></tag>
+   <elementGuidId>33b149e5-15e7-4c21-a559-bf1f3dbe0ca4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.um-field-checkbox-option</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-313']/div/div/div/form/div[2]/div/div/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc8e18b2-834f-4eb5-b3e6-809e3760d819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>um-field-checkbox-option</value>
+      <webElementGuid>f19540cd-e750-44e8-b0ff-6e71a59c71b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Keep me signed in</value>
+      <webElementGuid>9517c047-105e-4963-9bd3-3eb9452cb6bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-313&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;um um-login um-298 uimob500&quot;]/div[@class=&quot;um-form&quot;]/form[1]/div[@class=&quot;um-col-alt&quot;]/div[@class=&quot;um-field um-field-c&quot;]/div[@class=&quot;um-field-area&quot;]/label[@class=&quot;um-field-checkbox&quot;]/span[@class=&quot;um-field-checkbox-option&quot;]</value>
+      <webElementGuid>65e323ed-7bdc-4798-bf55-1378d50beb60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-313']/div/div/div/form/div[2]/div/div/label/span[2]</value>
+      <webElementGuid>2a2d9044-c569-4ee6-a558-d90dec219b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only fill in if you are not human'])[1]/following::span[2]</value>
+      <webElementGuid>91ae5a76-0a9d-4256-b14e-21138710eb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>b302b020-0730-4579-93d3-20934fb8c4e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>8d7c13bc-3c49-4ae2-bf79-ac10709135ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsletter'])[1]/preceding::span[2]</value>
+      <webElementGuid>7c2545ab-d8fc-4d57-95b6-4e581b07595d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keep me signed in']/parent::*</value>
+      <webElementGuid>c16d5215-1ad1-428b-9f0b-df49dfbc3c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>a54202fb-9919-476d-8082-6caa52838438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Keep me signed in' or . = ' Keep me signed in')]</value>
+      <webElementGuid>1f97f98d-b18b-40fe-83dd-da17775bd7d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

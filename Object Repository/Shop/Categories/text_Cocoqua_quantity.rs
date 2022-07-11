@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Cocoqua_quantity</name>
+   <tag></tag>
+   <elementGuidId>e1956cbf-bcb2-458a-8eb3-025496ba5a90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.cat-item.cat-item-86 > span.count</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/aside/aside/ul/li[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>816e3619-6dc5-4489-83a0-4c23598d1eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>count</value>
+      <webElementGuid>fd52926e-4100-43cc-91b1-01cd33818271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5efd559c-dd95-4160-a7f1-b68b16612db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-3 columns show-for-large&quot;]/div[@class=&quot;woocommerce-sidebar-sticky&quot;]/aside[@class=&quot;site-sidebar site-sidebar--shop widget-area&quot;]/aside[@class=&quot;widget woocommerce widget_product_categories_with_icon&quot;]/ul[@class=&quot;product-categories-with-icon&quot;]/li[@class=&quot;cat-item cat-item-86&quot;]/span[@class=&quot;count&quot;]</value>
+      <webElementGuid>9b4946a0-9f96-48db-a3cb-1848471e71dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/aside/aside/ul/li[4]/span</value>
+      <webElementGuid>fb0c209b-20a8-40b7-af49-dfb7f3477953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cocoqua ココナッツ'])[2]/following::span[1]</value>
+      <webElementGuid>b1e52a3e-0779-4f5e-a041-fc767fb9078a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uncategorized'])[2]/following::span[2]</value>
+      <webElementGuid>a8f958e8-746f-496e-9a8b-7257b95222f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Du-reamyドリアン'])[2]/preceding::span[1]</value>
+      <webElementGuid>943901f5-cdbe-4836-b454-857c96f9cbe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME PAGE'])[2]/preceding::span[2]</value>
+      <webElementGuid>9c93131e-8f82-4928-b9bb-7570ce37b0cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span</value>
+      <webElementGuid>208c14a9-ba6c-419f-a976-da7334edc755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '0' or . = '0')]</value>
+      <webElementGuid>a6abb1b2-edd4-4417-a9ef-25ace7b6b645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

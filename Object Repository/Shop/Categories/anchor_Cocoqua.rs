@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>anchor_Cocoqua</name>
+   <tag></tag>
+   <elementGuidId>17bf3a2d-3dec-4fe7-82b8-d31331efea5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.cat-item.cat-item-86 > a.site-secondary-font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/div/aside/aside/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>756baf4d-55cf-400e-b5fe-32f38072cae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>site-secondary-font</value>
+      <webElementGuid>f567c2b7-67fb-4e0e-9d90-fc919a9de68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://kotakoki.wijaysali.my.id/product-category/cocoqua-%e3%82%b3%e3%82%b3%e3%83%8a%e3%83%83%e3%83%84/</value>
+      <webElementGuid>61502921-6cda-41ee-9577-7263d1e065cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cocoqua ココナッツ</value>
+      <webElementGuid>a6f4cd14-a5a5-4fcd-946c-063e2c31d2e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-3 columns show-for-large&quot;]/div[@class=&quot;woocommerce-sidebar-sticky&quot;]/aside[@class=&quot;site-sidebar site-sidebar--shop widget-area&quot;]/aside[@class=&quot;widget woocommerce widget_product_categories_with_icon&quot;]/ul[@class=&quot;product-categories-with-icon&quot;]/li[@class=&quot;cat-item cat-item-86&quot;]/a[@class=&quot;site-secondary-font&quot;]</value>
+      <webElementGuid>ca4c6f3c-a6fd-4ad4-84fb-39af129fe872</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/div/aside/aside/ul/li[4]/a</value>
+      <webElementGuid>b129612b-2858-4d1e-9356-dec4f3100115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cocoqua ココナッツ')]</value>
+      <webElementGuid>fef212f3-24b7-4b83-b41d-3a69c4162989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uncategorized'])[2]/following::a[1]</value>
+      <webElementGuid>17f21fb6-84ba-4546-915f-1d9e37c29ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Du-reamyドリアン'])[2]/preceding::a[1]</value>
+      <webElementGuid>631497af-f0f6-4e7c-9364-d750736c6544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME PAGE'])[2]/preceding::a[2]</value>
+      <webElementGuid>0386db4f-cda4-45a2-8e24-385876097641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://kotakoki.wijaysali.my.id/product-category/cocoqua-%e3%82%b3%e3%82%b3%e3%83%8a%e3%83%83%e3%83%84/']</value>
+      <webElementGuid>ee04fcc1-7bf6-47b0-8d4a-f39e2ea478ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/ul/li[4]/a</value>
+      <webElementGuid>651b4fdb-e690-4b5e-acaf-9c0c0690d644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://kotakoki.wijaysali.my.id/product-category/cocoqua-%e3%82%b3%e3%82%b3%e3%83%8a%e3%83%83%e3%83%84/' and (text() = 'Cocoqua ココナッツ' or . = 'Cocoqua ココナッツ')]</value>
+      <webElementGuid>8a95e572-84a2-4fba-aea1-6c1d5658212d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

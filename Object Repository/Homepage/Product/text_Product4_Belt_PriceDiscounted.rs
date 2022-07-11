@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Product4_Belt_PriceDiscounted</name>
+   <tag></tag>
+   <elementGuidId>35aa9148-b35a-42ee-92a0-1208204f5261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-239.status-publish.last.instock.product_cat-uncategorized.has-post-thumbnail.sale.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > span.price > ins > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[4]/div/div[2]/div/span/ins/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>69f59201-00bf-4fce-b8fc-23625b6e82c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp55</value>
+      <webElementGuid>40c58aae-4057-4d63-a088-d7bc985e61b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-152&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1519815605942&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;woocommerce columns-4&quot;]/ul[@class=&quot;products columns-4 js_animated&quot;]/li[@class=&quot;product type-product post-239 status-publish last instock product_cat-uncategorized has-post-thumbnail sale shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/span[@class=&quot;price&quot;]/ins[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>40ad9d47-c1b1-4beb-b3fb-dfd442946e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[4]/div/div[2]/div/span/ins/span/bdi</value>
+      <webElementGuid>79e4fe8b-5b87-4b31-aa36-e8b86a2135eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[8]/following::bdi[1]</value>
+      <webElementGuid>7c5140a2-1a60-4cb2-bac9-df554f6e7005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belt'])[1]/following::bdi[2]</value>
+      <webElementGuid>e93bcc73-3f22-4c78-88b9-ce3b5f13266d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[4]/preceding::bdi[1]</value>
+      <webElementGuid>ee92c441-c02b-4786-a0a6-a42adf785837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='55']/parent::*</value>
+      <webElementGuid>b32e54e9-049d-453e-b8b4-c2d120c17c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/div[2]/div/span/ins/span/bdi</value>
+      <webElementGuid>db28b9d8-e4b6-45ed-81f7-241a17817351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp55' or . = 'Rp55')]</value>
+      <webElementGuid>793716ca-4b28-43a7-b522-783e1bb070bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

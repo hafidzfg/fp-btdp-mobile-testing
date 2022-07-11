@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_No products in the cart</name>
+   <tag></tag>
+   <elementGuidId>6b53b136-0be0-4f38-91f7-ab3c6201c3bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-mini-cart__empty-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-normal-minicart']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e22d1a51-1dab-42d4-ac38-0d37e28ed7a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-mini-cart__empty-message</value>
+      <webElementGuid>24881342-04cd-4b1d-9608-951620c1f6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No products in the cart.</value>
+      <webElementGuid>6713ce66-3377-4f47-89fd-1f003df5c37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-normal-minicart&quot;)/div[@class=&quot;widget woocommerce widget_shopping_cart&quot;]/div[@class=&quot;widget_shopping_cart_content&quot;]/p[@class=&quot;woocommerce-mini-cart__empty-message&quot;]</value>
+      <webElementGuid>3152642b-4a9d-44a1-805d-1198272574ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-normal-minicart']/div/div/p</value>
+      <webElementGuid>7a282121-0dac-43b1-a703-86703bafb9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::p[1]</value>
+      <webElementGuid>fa525175-5d72-4a0a-a598-8bb1092e66f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/following::p[1]</value>
+      <webElementGuid>0e1269f1-9f0f-48f2-b806-32ded84053f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::p[1]</value>
+      <webElementGuid>0140ace7-95f2-474a-b21d-a4fdf636f962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/preceding::p[1]</value>
+      <webElementGuid>33446e47-c2e0-498a-b9c4-f7ca029a18f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No products in the cart.']/parent::*</value>
+      <webElementGuid>039f4939-2297-4c3f-8c83-57f836fe8ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>41cdc407-93f9-4c33-b8c0-339b7315dfbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'No products in the cart.' or . = 'No products in the cart.')]</value>
+      <webElementGuid>dadd02f7-3cab-48d2-bb4f-8b16e41a9223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

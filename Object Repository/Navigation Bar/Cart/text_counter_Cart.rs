@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_counter_Cart</name>
+   <tag></tag>
+   <elementGuidId>5eb0806f-67d3-4963-a2e9-2e54705790e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tools_badge.shopping_bag_items_number.animate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc9a563c-f238-4eb0-afbd-4bac09507e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tools_badge shopping_bag_items_number animate</value>
+      <webElementGuid>3e6289f7-846b-49c3-ad56-c69a410f3b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3551c456-6384-4678-9a84-24c157750b4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;home page-template-default page page-id-152 page-child parent-pageid-150 wp-embed-responsive theme-the-hanger woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full page-without-title footer-layout-boxed&quot;]/div[@class=&quot;site-wrapper&quot;]/header[@class=&quot;site-header site-header-style-1 header-normal&quot;]/div[@class=&quot;row small-collapse&quot;]/div[@class=&quot;small-12 columns&quot;]/div[@class=&quot;header-content&quot;]/div[@class=&quot;header-line-1&quot;]/div[@class=&quot;row align-middle&quot;]/div[@class=&quot;small-12 medium-8 large-9 columns&quot;]/div[@class=&quot;header-line-1-wrapper&quot;]/ul[@class=&quot;header-tools&quot;]/li[@class=&quot;header-cart&quot;]/a[@class=&quot;hover&quot;]/div[@class=&quot;tools_badge shopping_bag_items_number animate&quot;]</value>
+      <webElementGuid>c8a53edc-b505-4ff8-96c6-62f675ebf2e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/following::div[1]</value>
+      <webElementGuid>2a9318eb-6a90-4075-be06-2b68d7ecb745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoodie with Zipper'])[1]/following::div[1]</value>
+      <webElementGuid>ce338948-8958-43ee-9b1e-3d423789cb80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::div[1]</value>
+      <webElementGuid>517a8b61-068f-4602-8dcb-1f58ffe78a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[6]</value>
+      <webElementGuid>2a223699-d7a9-4c8e-bd8c-91dd91783f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0']/parent::*</value>
+      <webElementGuid>e0e1be32-7fd3-4567-b6ae-ddd49cd17c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a/div</value>
+      <webElementGuid>5e99ea5f-c8c5-4649-b81a-3c447a159ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0' or . = '0')]</value>
+      <webElementGuid>0a924707-bf5f-4ff4-8d44-d10428f61f2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

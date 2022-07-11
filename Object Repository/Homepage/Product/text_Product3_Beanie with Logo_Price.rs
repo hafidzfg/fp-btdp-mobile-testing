@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Product3_Beanie with Logo_Price</name>
+   <tag></tag>
+   <elementGuidId>103eff03-4cd6-48f6-ba13-9f464d6691de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.product.type-product.post-26.status-publish.instock.product_cat-uncategorized.has-post-thumbnail.shipping-taxable.purchasable.product-type-simple.visible.animation_ready.animated > div.main-container > div.second-container > div.product_info > span.price > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[3]/div/div[2]/div/span/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>06e80895-f46a-4436-9881-eac0ce0a543c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp20.000</value>
+      <webElementGuid>77ee2050-f395-441a-996d-cddea64f1fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-152&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1519815605942&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;woocommerce columns-4&quot;]/ul[@class=&quot;products columns-4 js_animated&quot;]/li[@class=&quot;product type-product post-26 status-publish instock product_cat-uncategorized has-post-thumbnail shipping-taxable purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;product_info&quot;]/span[@class=&quot;price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>ff92e582-f419-43ad-8d65-b421796d418a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-152']/div/div[3]/div/div/div/div[2]/ul/li[3]/div/div[2]/div/span/span/bdi</value>
+      <webElementGuid>eb76efb4-9bbd-48f7-a7d7-1351549a845d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beanie with Logo'])[1]/following::bdi[1]</value>
+      <webElementGuid>465ef0d4-805f-4681-a98d-0264870732b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New!'])[2]/following::bdi[1]</value>
+      <webElementGuid>0566a0d0-a84e-46cf-9fbe-344737329325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[3]/preceding::bdi[1]</value>
+      <webElementGuid>f82f2a30-4b17-4f2f-b590-87cfb543e36c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='20.000']/parent::*</value>
+      <webElementGuid>51ca03e8-568b-4c69-a637-811648b6ea37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div[2]/div/span/span/bdi</value>
+      <webElementGuid>a722f2e0-f56f-420a-81da-198ece245037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp20.000' or . = 'Rp20.000')]</value>
+      <webElementGuid>698468f3-892f-41ee-a41c-e08b521bb980</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
