@@ -6,6 +6,10 @@
    <elementGuidId>658c5eec-1df8-460f-9cca-ff95b8af03ec</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Rp15.000' or . = 'Rp15.000')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//article[@id='post-53']/div/div/form/table/tbody/tr/td[4]/span/bdi</value>
       </entry>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>bdi</value>
-      <webElementGuid>5cda9448-6b8b-429b-b1a7-d9b6280c2948</webElementGuid>
+      <webElementGuid>b9e4b65c-ac9a-46be-8593-6fe84463f3a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Rp15.000</value>
-      <webElementGuid>47d01276-373a-4a4c-b905-ba5a81a54d29</webElementGuid>
+      <webElementGuid>fb6293bd-8cef-4a15-ac9f-d2dd63bd9f8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-53&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;woocommerce-cart-form&quot;]/table[@class=&quot;shop_table shop_table_responsive cart woocommerce-cart-form__contents&quot;]/tbody[1]/tr[@class=&quot;woocommerce-cart-form__cart-item cart_item&quot;]/td[@class=&quot;product-price&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
-      <webElementGuid>226d9a92-095e-4bf0-be98-775d85d512b9</webElementGuid>
+      <webElementGuid>95b84cfe-8244-4077-a2b7-ffb15c52d61d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-53']/div/div/form/table/tbody/tr/td[4]/span/bdi</value>
-      <webElementGuid>1b6f7646-987d-4fee-bea0-2b01c8e90e94</webElementGuid>
+      <webElementGuid>aee75531-adbd-4c08-94ca-d08dc5ac48f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Album'])[1]/following::bdi[1]</value>
-      <webElementGuid>be81abac-9935-4ada-921c-62d2e14f514c</webElementGuid>
+      <webElementGuid>73625184-685e-4198-826a-ca69f809dbf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::bdi[1]</value>
-      <webElementGuid>ea95d368-0e16-452a-ab83-34b3d6cd1708</webElementGuid>
+      <webElementGuid>1fccc652-2a31-4295-be55-8dc091abb207</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Album quantity'])[1]/preceding::bdi[1]</value>
-      <webElementGuid>9f913268-b004-4d7e-8a5f-4533b7704554</webElementGuid>
+      <webElementGuid>06fc0f98-f866-4aef-8a56-1d72e634d65f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='15.000']/parent::*</value>
-      <webElementGuid>e09ddb9b-fd99-46cf-9775-cad50be80c0c</webElementGuid>
+      <webElementGuid>565d4b7c-dd90-4ddb-b99e-b578edeef6ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/span/bdi</value>
-      <webElementGuid>147d35ae-f6bb-4e9d-b6ee-80cf10f90c49</webElementGuid>
+      <webElementGuid>48273ddd-044f-44cb-a7dc-cb0bc37daabc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//bdi[(text() = 'Rp15.000' or . = 'Rp15.000')]</value>
-      <webElementGuid>d6d53a82-0251-46da-bdb8-9f34a00b2df7</webElementGuid>
+      <webElementGuid>bbd9b40f-78e1-4fbd-9c17-61e80bb33321</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
