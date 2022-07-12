@@ -45,6 +45,6 @@ Consists of all add to cart related test cases
 Consists of all checkout related test cases
 
 ## Test Suites Collection
-- TS Collection - All Test Suites
+- TS Collection - All Test Suites <br>
 Consists of all test suites for ease of execution. <br>
 Note that it is set to 2 parallel test case execution. Set it to 1 first if you are using a lower end machine.
