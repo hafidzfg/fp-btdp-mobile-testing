@@ -16,7 +16,8 @@ ParticipantID: **KSAT006ONL008**
 - Tools: Katalon Studio/Groovy
 
 ## Documentation
-For detailed documentation, please access the following test plan document: [Test Plan Web Automation Test](.\documentation\Web_Automation_Test_Plan.docx)
+- **Test plan**: [Test Plan Web Automation Test](/documentation/Web_Automation_Test_Plan.docx)
+- **Test scenario**: [Test Scenario Web Automation Test](/documentation/Web_Automation_Test_Scenario.xlsx)
 
 ## Requirements
 - Katalon Studio
