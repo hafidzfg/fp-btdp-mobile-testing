@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_text_quantity_item1</name>
+   <name>input_text_qty_item1</name>
    <tag></tag>
-   <elementGuidId>8d139a63-b9af-48ea-8776-83f3fa7adf2d</elementGuidId>
+   <elementGuidId>003b187f-db6d-4192-bf6e-6fb87dc5305e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='quantity_62cce588c808f']</value>
+         <value>//td[5]/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#quantity_62cce588c808f</value>
+         <value>#quantity_62ccfadb39e84</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d69e9db1-90db-4259-b8ba-818ab4a61273</webElementGuid>
+      <webElementGuid>0c30577b-4b95-4bb5-bc82-bed15397429b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>ed926e59-a01a-49cb-908d-b88c8e6f5544</webElementGuid>
+      <webElementGuid>98908b4e-f8cc-4c69-90ba-979019d1db13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>quantity_62cce588c808f</value>
-      <webElementGuid>71533e77-36cd-48b0-95cd-4f1f80f97f20</webElementGuid>
+      <value>quantity_62ccfadb39e84</value>
+      <webElementGuid>4543cc6e-3586-49b8-843b-3c2f05909ab7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-text qty text</value>
-      <webElementGuid>da5455a8-3f4e-4c75-b352-7caeed99b806</webElementGuid>
+      <webElementGuid>28a53516-3019-4b91-a94e-ed4a1503796d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>step</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>54b830b1-4367-41d5-bc61-b6c67dc1c5b9</webElementGuid>
+      <webElementGuid>7e72109f-3c1f-49e1-a184-387119e13a2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>52c3ab93-93b8-4879-97d0-1003bafd66f2</webElementGuid>
+      <webElementGuid>d057d0be-4add-4312-b242-fdb090706d3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>cart[70efdf2ec9b086079795c442636b55fb][qty]</value>
-      <webElementGuid>31bbc3a1-81bd-4053-b936-14d32500d24f</webElementGuid>
+      <webElementGuid>a759bf11-318a-4f39-961d-66de8c27296c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>32791cb5-78f2-45af-a40e-2658a3f918e0</webElementGuid>
+      <webElementGuid>d9826237-5925-4d60-b094-f1db38808b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Qty</value>
-      <webElementGuid>48956515-64a0-4b6b-87e1-3b6453674d23</webElementGuid>
+      <webElementGuid>2b6b3375-01a1-46c0-8e88-4083f27968fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>size</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>c833e461-ac5e-47b3-8c0c-c0edd9e69026</webElementGuid>
+      <webElementGuid>f258b6e4-702f-47d0-afd4-18ad9d8b2713</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>inputmode</name>
       <type>Main</type>
       <value>numeric</value>
-      <webElementGuid>5e6d9b16-4692-4d57-848e-74392f9aca27</webElementGuid>
+      <webElementGuid>9e25e6b9-8278-4d55-881f-345e2a1a98f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,23 +110,23 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>991bdf02-fb1e-4b8b-b167-686aae4aac7e</webElementGuid>
+      <webElementGuid>85a525c9-5e95-41f8-b86a-fe766738a9f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;quantity_62cce588c808f&quot;)</value>
-      <webElementGuid>cffa9744-4e1d-4a00-b0bb-e81cc28bca3c</webElementGuid>
+      <value>id(&quot;quantity_62ccfadb39e84&quot;)</value>
+      <webElementGuid>f00fe15f-55c3-4a03-a6c2-026cd354d2f6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='quantity_62cce588c808f']</value>
-      <webElementGuid>3f8f7a41-3f82-43c8-ab48-27c45590d25b</webElementGuid>
+      <value>//input[@id='quantity_62ccfadb39e84']</value>
+      <webElementGuid>264bae84-c63b-4ba2-a071-ba58d20db01f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-53']/div/div/form/table/tbody/tr/td[5]/div/input</value>
-      <webElementGuid>7022dc35-f513-43c2-b5d8-f50b930df1f4</webElementGuid>
+      <webElementGuid>71d3b2e0-c82b-43b2-a066-6a0f72b306d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,14 +142,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[5]/div/input</value>
-      <webElementGuid>1c50b5c3-264e-4279-8f3c-31c0213951cb</webElementGuid>
+      <webElementGuid>cda5fae7-b273-43bb-ab95-fcffeb0fe768</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'number' and @id = 'quantity_62cce588c808f' and @name = 'cart[70efdf2ec9b086079795c442636b55fb][qty]' and @title = 'Qty']</value>
-      <webElementGuid>8c591588-0d31-4746-9af4-38e7041cbc06</webElementGuid>
+      <value>//input[@type = 'number' and @id = 'quantity_62ccfadb39e84' and @name = 'cart[70efdf2ec9b086079795c442636b55fb][qty]' and @title = 'Qty']</value>
+      <webElementGuid>54aa387d-6f51-4ff7-9264-bf1ed681f973</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
