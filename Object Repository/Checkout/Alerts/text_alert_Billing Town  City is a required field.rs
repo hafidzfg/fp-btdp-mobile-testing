@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_alert_Billing Town  City is a required field</name>
+   <tag></tag>
+   <elementGuidId>3814ce77-86aa-4712-a3cf-d9e543375580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-54']/div/div/form[2]/div/ul/li/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.no-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9740a361-dc7e-4729-9b15-090a201d7af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-button</value>
+      <webElementGuid>afd359bc-6396-44fc-a3f5-2ac67651c098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Town / City is a required field.</value>
+      <webElementGuid>646e9099-79cf-417e-b613-8bb36fd5a9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-54&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/div[@class=&quot;woocommerce-NoticeGroup woocommerce-NoticeGroup-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[1]/p[@class=&quot;no-button&quot;]</value>
+      <webElementGuid>41a06fc6-a6a1-4314-b145-8b1fdb93ca4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-54']/div/div/form[2]/div/ul/li/p</value>
+      <webElementGuid>909bf1cd-5e45-47f8-9ce0-08e7fdf13d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply coupon'])[1]/following::p[1]</value>
+      <webElementGuid>df237656-8df6-458b-88bd-2fcce04873c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing details'])[1]/preceding::p[1]</value>
+      <webElementGuid>655d05e6-f07e-41e8-8cf6-e691f5c91574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='is a required field.']/parent::*</value>
+      <webElementGuid>f5803f96-c6c9-4cda-94ff-6548f466704a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/p</value>
+      <webElementGuid>d8fbcf35-02d4-45df-a564-2bc1186497b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Billing Town / City is a required field.' or . = 'Billing Town / City is a required field.')]</value>
+      <webElementGuid>859cd3b2-b641-4ec1-b741-f00f8b332671</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

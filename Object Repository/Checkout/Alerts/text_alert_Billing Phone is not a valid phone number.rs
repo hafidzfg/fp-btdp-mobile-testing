@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_alert_Billing Phone is not a valid phone number</name>
+   <tag></tag>
+   <elementGuidId>af8ebec6-d81b-40b9-9e8a-490b35f0fb41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-54']/div/div/form[2]/div/ul/li/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.no-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>90caf248-82ab-4ee2-bffe-6105ba8cf75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>no-button</value>
+      <webElementGuid>6e588f79-f1c3-4b22-ad56-efc54253d506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Phone is not a valid phone number.</value>
+      <webElementGuid>ae346815-caa6-4609-b547-8e11bfbb7757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-54&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/div[@class=&quot;woocommerce-NoticeGroup woocommerce-NoticeGroup-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[1]/p[@class=&quot;no-button&quot;]</value>
+      <webElementGuid>e79186e3-86a5-4d25-b25b-378bdd1d7e86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-54']/div/div/form[2]/div/ul/li/p</value>
+      <webElementGuid>ffbc30a5-d83e-43f4-b678-128f4ee4188f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply coupon'])[1]/following::p[1]</value>
+      <webElementGuid>ac164859-1e05-454b-b3d1-606eeaf4fbc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing details'])[1]/preceding::p[1]</value>
+      <webElementGuid>6c8ed6d3-901e-4733-9ef8-c04352b54554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='is not a valid phone number.']/parent::*</value>
+      <webElementGuid>037dc8ff-2238-45fe-98f5-5c2c0b0cfdc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/p</value>
+      <webElementGuid>2562c517-7679-4624-8113-20c2733b3687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Billing Phone is not a valid phone number.' or . = 'Billing Phone is not a valid phone number.')]</value>
+      <webElementGuid>c8209dd5-3af5-40ed-842e-6273b7238f5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
