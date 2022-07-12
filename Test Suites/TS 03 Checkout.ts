@@ -15,21 +15,21 @@
       <guid>11434f9f-bcd4-4dd2-97b7-57090a263199</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checkout/TC 301_Checkout with valid billing details (Positive)</testCaseId>
+      <testCaseId>Test Cases/3 Checkout/TC 301_Checkout with valid billing details (Positive)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>58b40297-27fc-4a9d-9943-282ab16a6839</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checkout/TC 302_Checkout with valid billing details but very big product quantity (Positive) - Copy</testCaseId>
+      <testCaseId>Test Cases/3 Checkout/TC 302_Checkout with valid billing details but very big product quantity (Positive) - Copy</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>570c9116-8be6-43f1-8caa-302451eb0989</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checkout/TC 303_Checkout with invalid billing details (Negative)</testCaseId>
+      <testCaseId>Test Cases/3 Checkout/TC 303_Checkout with invalid billing details (Negative)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

@@ -15,21 +15,21 @@
       <guid>58fa891a-cd71-457f-8dc4-65d80be4b897</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add to Cart/TC_201 Add a product (Positive)</testCaseId>
+      <testCaseId>Test Cases/2 Add to Cart/TC_201 Add a product (Positive)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>333a37eb-294e-4fa8-b485-a92f9d4e6c5a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add to Cart/TC_202 Add 2 products (Positive)</testCaseId>
+      <testCaseId>Test Cases/2 Add to Cart/TC_202 Add 2 products (Positive)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>c669409c-dd1c-45f9-a23e-30268a17929c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add to Cart/TC_203 Add a product then update product qty (Album) (Positive)</testCaseId>
+      <testCaseId>Test Cases/2 Add to Cart/TC_203 Add a product then update product qty (Album) (Positive)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
