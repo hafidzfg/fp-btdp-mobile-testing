@@ -19,4 +19,14 @@
       <initValue>'lakeimtom+2@gmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'inibukanpassword'</initValue>
+      <name>invalidPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'certainlyNotAValidUserUKnow'</initValue>
+      <name>invalidUsername</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
