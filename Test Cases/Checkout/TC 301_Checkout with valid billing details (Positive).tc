@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 301_Checkout with valid billing details (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5aaf2960-ad01-4097-90d0-b26f108cca90</testCaseGuid>
+</TestCaseEntity>

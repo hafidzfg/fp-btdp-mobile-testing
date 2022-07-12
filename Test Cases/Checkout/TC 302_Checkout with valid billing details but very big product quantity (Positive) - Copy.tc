@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC 302_Checkout with valid billing details but very big product quantity (Positive) - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5de5f53-541f-440d-9fa3-d1a91bc97c07</testCaseGuid>
+</TestCaseEntity>
