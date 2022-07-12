@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_104 Login with incorrect username (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bcbcd944-7979-480c-8d7b-2861d3acdbc0</testCaseGuid>
+</TestCaseEntity>
