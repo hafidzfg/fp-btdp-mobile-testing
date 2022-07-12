@@ -17,3 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://kotakoki.wijaysali.my.id/')
+
+WebUI.click(findTestObject('Navigation Bar/span_Register Now'))
+
+WebUI.verifyElementPresent(findTestObject('Register Page/text_h1_Register Now'), 0)
+
+WebUI.setText(findTestObject('Register Page/input_text_Username'), 'lakeimtom3')
+
+WebUI.setText(findTestObject('Register Page/input_text_Email'), 'lakeimtom+3@gmail.com')
+
+WebUI.setText(findTestObject('Register Page/input_text_Phone Number'), '12345678901')
+
+WebUI.setText(findTestObject('Register Page/input_text_Address'), 'Bangladesh')
+
+'A valid password is minimum 8 digits and contains at least 1 small and capital letters, as well as a number or special characters'
+WebUI.setText(findTestObject('Register Page/input_text_Password'), 'ThisIsASecret33')
+
+WebUI.setText(findTestObject('Register Page/input_text_Confirm Password'), 'ThisIsASecret33')
+
+WebUI.click(findTestObject('Register Page/button_Submit'))
+
+WebUI.verifyElementPresent(findTestObject('My Account/text_AccountName'), 0)
+
+WebUI.verifyElementText(findTestObject('My Account/text_AccountName'), 'lakeimtom3')
+
+WebUI.closeBrowser()
+
