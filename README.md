@@ -15,7 +15,7 @@ ParticipantID: **KSAT006ONL008**
 - [Mock Ecommerce Web](https://kotakoki.wijaysali.my.id/) **Proceed with caution!, don't put any of your real payment details there!**
 - Tools: Katalon Studio/Groovy
 
-## Documentation
+## Additional documentation
 - **Test plan**: [Test Plan Web Automation Test](/documentation/Web_Automation_Test_Plan.docx)
 - **Test scenario**: [Test Scenario Web Automation Test](/documentation/Web_Automation_Test_Scenario.xlsx)
 
