@@ -23,9 +23,7 @@ WebUI.navigateToUrl('http://kotakoki.wijaysali.my.id/')
 
 WebUI.click(findTestObject('Homepage/Product/anchor_Product1_AlbumAdd to cart'))
 
-WebUI.click(findTestObject('Homepage/Product/anchor_Product2_Beanie_Add to cart'))
-
-WebUI.verifyElementText(findTestObject('Navigation Bar/CartMini/text_counter_Cart'), '2')
+WebUI.verifyElementText(findTestObject('Navigation Bar/CartMini/text_counter_Cart'), '1')
 
 WebUI.click(findTestObject('Navigation Bar/CartMini/icon_Cart'))
 
@@ -33,5 +31,21 @@ WebUI.verifyElementText(findTestObject('CartFullPage/text_ProductName_item1'), '
 
 WebUI.verifyElementAttributeValue(findTestObject('CartFullPage/input_text_qty_item1'), 'value', '1', 5)
 
-WebUI.closeBrowser()
+String priceItem1 = WebUI.getText(findTestObject('CartFullPage/text_individualPrice_item1'))
+ 
+// convert string to int
+price1 = priceItem1.substring(2, priceItem1.size())
+
+int price1 = Integer.parseInt(price1.replace('.', ''))
+
+// get new subtotal string for item1
+String subtotal1 = WebUI.getText(findTestObject('CartFullPage/text_subtotalPrice_item1'))
+
+// convert subtotal item 1 to int
+subtotalItem1 = subtotal1.substring(2, subtotal1.size())
+
+int subtotalItem1 = Integer.parseInt(subtotalItem1.replace('.', ''))
+
+// verify new subtotal is correct
+WebUI.verifyEqual(subtotalItem1, price1)
 
