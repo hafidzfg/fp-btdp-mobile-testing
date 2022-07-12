@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_cart_item2</name>
+   <tag></tag>
+   <elementGuidId>d6094815-addd-41e9-8ced-4bd052ae3c2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-normal-minicart']/div/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a7c09300-fe0c-40e8-83f7-a0bf1c91e44c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-mini-cart-item mini_cart_item</value>
+      <webElementGuid>4e90819a-65b1-400b-b931-31cf243c8281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					×											
+							Beanie						
+															1 × Rp18				</value>
+      <webElementGuid>bf4b9bc2-83c4-446a-a3ba-26adbd82620f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-normal-minicart&quot;)/div[@class=&quot;widget woocommerce widget_shopping_cart&quot;]/div[@class=&quot;widget_shopping_cart_content&quot;]/ul[@class=&quot;woocommerce-mini-cart cart_list product_list_widget&quot;]/li[@class=&quot;woocommerce-mini-cart-item mini_cart_item&quot;]</value>
+      <webElementGuid>02350070-5953-4044-8ffb-7c4c15a22190</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-normal-minicart']/div/div/ul/li[2]</value>
+      <webElementGuid>4c167f87-43ba-40c0-89ca-538812ce12f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/following::li[1]</value>
+      <webElementGuid>1a1e6f72-5a4a-4f7d-8751-78538aa90649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>df94cbdb-6f5c-4519-a30e-3aa7e7bcb655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+					×											
+							Beanie						
+															1 × Rp18				' or . = '
+					×											
+							Beanie						
+															1 × Rp18				')]</value>
+      <webElementGuid>d2242819-063c-4850-85e5-d643c624028f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

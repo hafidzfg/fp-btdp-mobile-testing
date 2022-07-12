@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ProductNameXQty_item2</name>
+   <tag></tag>
+   <elementGuidId>7a2774cf-51e1-48b1-b644-b6a0bb618b15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_review']/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f74f7590-7c3b-429c-bc51-8b60ead2ce91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>181266ee-1c7b-480b-972d-b46f0547ff5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Beanie 						 × 5											</value>
+      <webElementGuid>c68d7f1b-d8fa-482f-8dfb-be2eddb6902d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order_review&quot;)/table[@class=&quot;shop_table woocommerce-checkout-review-order-table&quot;]/tbody[1]/tr[@class=&quot;cart_item&quot;]/td[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>f6618a55-a9f4-4997-a911-4a91d2953410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order_review']/table/tbody/tr[2]/td</value>
+      <webElementGuid>e767340e-0ba7-4993-8dff-ba6a0e05e29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/following::td[1]</value>
+      <webElementGuid>1a98e4f0-f0cb-4dd0-a9f7-2c250e30cfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='× 2'])[1]/following::td[2]</value>
+      <webElementGuid>c69b33d8-0ed2-4957-b8aa-98860bfee9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[5]/preceding::td[1]</value>
+      <webElementGuid>2b9a7076-4154-475e-83fe-cf84eda30b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td</value>
+      <webElementGuid>bc41e649-f6e1-4b58-afc5-8a4a1139a0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+						Beanie 						 × 5											' or . = '
+						Beanie 						 × 5											')]</value>
+      <webElementGuid>0d3e1f32-ca32-4a72-bbaa-e55c83581127</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_price_item1</name>
+   <tag></tag>
+   <elementGuidId>522a99bd-ec41-48cc-82df-5e377511f9d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item-price.text-right.font-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3733cfbf-e6f3-4d82-b1d0-320eafb9e07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-price text-right font-semibold</value>
+      <webElementGuid>f3ec9cf5-c18e-4ff5-9380-9198135fac4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDR 15.000</value>
+      <webElementGuid>796dd878-6511-4e83-b982-5eac3521ecdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;md:pt-4&quot;]/div[@class=&quot;order-items text-sm md:text-bases undefined&quot;]/div[@class=&quot;flex justify-between items-start pb-4 lg:pb-6&quot;]/div[@class=&quot;item-price text-right font-semibold&quot;]</value>
+      <webElementGuid>0f49f677-5c05-4943-928a-fc8d96e16090</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>d875a3fe-9bc7-4952-94a0-eda526832a13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[2]/following::div[1]</value>
+      <webElementGuid>35154dc0-f33c-4458-8b9e-8fe8d6451495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Album'])[1]/following::div[1]</value>
+      <webElementGuid>1b6f0e8d-02f2-46dd-b466-4a837864db63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/preceding::div[1]</value>
+      <webElementGuid>6075c1b5-f2a3-4565-9749-4edaf5b7bbcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[4]/preceding::div[1]</value>
+      <webElementGuid>4ea0c8cf-0a48-4f41-91f6-8e836e63d6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]</value>
+      <webElementGuid>863b49ee-1f62-4e65-b588-19a7e4ca6007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'IDR 15.000' or . = 'IDR 15.000')]</value>
+      <webElementGuid>abd9ef0a-2f36-4c40-9bdf-59f7b2a77c7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

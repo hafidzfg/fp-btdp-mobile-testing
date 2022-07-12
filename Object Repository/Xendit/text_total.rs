@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_total</name>
+   <tag></tag>
+   <elementGuidId>86e91971-a39f-4b8d-8d73-72e7c7b76b37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]/table[2]/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.pr-4.py-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8dc134c0-265e-4b52-adf6-0b8a8b619928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pr-4 py-4</value>
+      <webElementGuid>e535b29d-69e9-4cce-b9e3-50edb192d323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah Total</value>
+      <webElementGuid>ec1dba66-0870-409e-b870-7c99126a007f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;text-sm md:text-base&quot;]/table[@class=&quot;h-full mr-0 ml-auto w-full md:w-auto  mt-4&quot;]/tbody[1]/tr[@class=&quot;text-base text-left md:text-right font-semibold border-t border-gray-100 p-5&quot;]/td[@class=&quot;pr-4 py-4&quot;]</value>
+      <webElementGuid>186ced88-3925-4137-9661-99864ecd44df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]/table[2]/tbody/tr/td</value>
+      <webElementGuid>32feba5f-db6c-470b-b8ae-fb610e21dbfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[4]/following::td[1]</value>
+      <webElementGuid>b9cce53a-ae0f-4484-a5d3-40cefe29c1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/following::td[2]</value>
+      <webElementGuid>f98166f5-d549-48e6-a44d-6158687a4184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[5]/preceding::td[1]</value>
+      <webElementGuid>6b9401f1-3b4a-47ed-80c6-dc5ffea26d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::td[2]</value>
+      <webElementGuid>a5a60c26-6597-451f-bbd2-847b2bcc910f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jumlah Total']/parent::*</value>
+      <webElementGuid>232ca334-ae4c-4f10-bb54-9fd350697ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tbody/tr/td</value>
+      <webElementGuid>dd5c19f8-5789-475f-a0de-0d4140fec5a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Jumlah Total' or . = 'Jumlah Total')]</value>
+      <webElementGuid>6b4829c2-567e-416b-9d33-a7f096d0d5fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_subTotal</name>
+   <tag></tag>
+   <elementGuidId>f434221a-b140-4f5e-a113-fb4d66530504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b18f039-c8aa-48ed-82b9-991b4ed5c8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm md:text-base</value>
+      <webElementGuid>a58ffe37-ed06-44bf-ac33-c9e56782cddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SubtotalIDR 15.000Jumlah TotalIDR 15.000</value>
+      <webElementGuid>fb68c275-1aff-4cd8-bc5d-7090c1d87023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;text-sm md:text-base&quot;]</value>
+      <webElementGuid>498aa6b1-6ff3-42c6-8336-41dfafafff74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div[3]</value>
+      <webElementGuid>0d3acbdc-7e9d-439b-a6ff-a4826b92da96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[3]/following::div[1]</value>
+      <webElementGuid>d808bf35-7468-45e3-8201-898255cd041c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR 15.000'])[2]/following::div[2]</value>
+      <webElementGuid>ae4dc950-64f6-442e-bb77-4f831690d29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>7197e222-9392-4d74-8c14-091ea525ed94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SubtotalIDR 15.000Jumlah TotalIDR 15.000' or . = 'SubtotalIDR 15.000Jumlah TotalIDR 15.000')]</value>
+      <webElementGuid>fa366bc5-21a5-4015-bd7a-268102258c61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

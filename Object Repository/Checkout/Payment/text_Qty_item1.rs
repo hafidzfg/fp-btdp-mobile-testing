@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Qty_item1</name>
+   <tag></tag>
+   <elementGuidId>eb90c0e7-09d4-43b3-9da4-4e5e2605a50b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_review']/table/tbody/tr/td/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.product-quantity</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>f901af25-37a1-418e-a789-8cee02ef756d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-quantity</value>
+      <webElementGuid>2dfa0e13-aa71-4dee-a905-4abe13a135af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>× 2</value>
+      <webElementGuid>e01947c5-319e-45c4-90b6-d3e1ecb0850e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order_review&quot;)/table[@class=&quot;shop_table woocommerce-checkout-review-order-table&quot;]/tbody[1]/tr[@class=&quot;cart_item&quot;]/td[@class=&quot;product-name&quot;]/strong[@class=&quot;product-quantity&quot;]</value>
+      <webElementGuid>f0d28bf0-c0fc-4713-87d7-cbeb1eecb59e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order_review']/table/tbody/tr/td/strong</value>
+      <webElementGuid>dc05db53-af9d-438e-a009-dc60a068c08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[1]/following::strong[1]</value>
+      <webElementGuid>086162f3-3ab1-42f4-9c35-0aeb3870b2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/preceding::strong[1]</value>
+      <webElementGuid>7168a02f-a261-4669-8c06-dc9f52fb2a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='× 2']/parent::*</value>
+      <webElementGuid>3797f90f-9cdb-4f46-872f-0b8040ca2908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>4ee868c0-7c5f-4953-8d2c-d3c58d9d8ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '× 2' or . = '× 2')]</value>
+      <webElementGuid>82e30847-39ed-4433-bb35-0aa87db2face</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

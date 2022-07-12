@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_ProductName_item1</name>
+   <tag></tag>
+   <elementGuidId>4482f0a1-c573-4b65-9909-baaf96b47e91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-normal-minicart']/div/div/ul/li/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>440d21fb-6bcb-41b6-8e8c-f862b2a31033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kotakoki.wijaysali.my.id/product/album/</value>
+      <webElementGuid>b2592f8d-6eaa-4183-a5d9-85d44caa23f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							Album						</value>
+      <webElementGuid>600e82c6-08b6-4150-be61-bad148f7c38e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-normal-minicart&quot;)/div[@class=&quot;widget woocommerce widget_shopping_cart&quot;]/div[@class=&quot;widget_shopping_cart_content&quot;]/ul[@class=&quot;woocommerce-mini-cart cart_list product_list_widget&quot;]/li[@class=&quot;woocommerce-mini-cart-item mini_cart_item&quot;]/a[2]</value>
+      <webElementGuid>791dd5d3-5116-4b4e-b437-a9db4590b10a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-normal-minicart']/div/div/ul/li/a[2]</value>
+      <webElementGuid>2c6ad042-2862-4e78-9443-ac64f6653e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::a[1]</value>
+      <webElementGuid>4baf32e3-3967-4051-889c-46a4bc7866f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::a[2]</value>
+      <webElementGuid>778f0e97-738c-4308-951e-1bfbaf0b3521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/preceding::a[1]</value>
+      <webElementGuid>853c2ab4-d966-472f-9a24-458f46bb924c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::a[1]</value>
+      <webElementGuid>95681d42-756a-45ee-bd31-10ea889ae9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Album']/parent::*</value>
+      <webElementGuid>67b25ce9-0964-4995-9358-9ef2700cf735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kotakoki.wijaysali.my.id/product/album/')]</value>
+      <webElementGuid>19a64262-a50a-4073-b6e1-c6b458650537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>535b44a8-49e5-4994-8642-fe58d56a1e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kotakoki.wijaysali.my.id/product/album/' and (text() = '
+							Album						' or . = '
+							Album						')]</value>
+      <webElementGuid>ed47e94e-dcd9-44d3-ba15-ca336a920a25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

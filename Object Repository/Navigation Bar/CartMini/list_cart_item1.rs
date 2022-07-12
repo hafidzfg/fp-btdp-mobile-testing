@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>list_cart_item1</name>
+   <tag></tag>
+   <elementGuidId>280a9423-e3ea-4157-adae-b994b9384238</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-normal-minicart']/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.woocommerce-mini-cart-item.mini_cart_item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b2b280b8-88f5-4188-a78d-1386f8693f74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-mini-cart-item mini_cart_item</value>
+      <webElementGuid>31072d0f-c700-4304-8c4e-86e8c1817a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					×											
+							Album						
+															1 × Rp15.000				</value>
+      <webElementGuid>c3199929-f736-44c1-a183-25dfcf9673c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-normal-minicart&quot;)/div[@class=&quot;widget woocommerce widget_shopping_cart&quot;]/div[@class=&quot;widget_shopping_cart_content&quot;]/ul[@class=&quot;woocommerce-mini-cart cart_list product_list_widget&quot;]/li[@class=&quot;woocommerce-mini-cart-item mini_cart_item&quot;]</value>
+      <webElementGuid>b7e119a2-6c10-45bb-81a7-86966ba6c0e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-normal-minicart']/div/div/ul/li</value>
+      <webElementGuid>1d62ab20-8eef-43ab-a426-85384d7f56a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::li[1]</value>
+      <webElementGuid>e538bae8-bab3-4492-ae1e-88c9b83a3c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/following::li[2]</value>
+      <webElementGuid>46803da3-28c4-49c2-aa06-4e1db115bb10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/div/ul/li</value>
+      <webElementGuid>4f15df32-aab3-469a-9f61-a14c4f955787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+					×											
+							Album						
+															1 × Rp15.000				' or . = '
+					×											
+							Album						
+															1 × Rp15.000				')]</value>
+      <webElementGuid>4deeab21-2017-4461-b9d7-f953b0038f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_price_item1</name>
+   <tag></tag>
+   <elementGuidId>39565a00-9701-4862-bfb2-c054586e1621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-normal-minicart']/div/div/ul/li/span/span/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.quantity > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>af17d2cd-77f3-4ab4-9a48-846e5ef52188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp15.000</value>
+      <webElementGuid>ad4c0890-da5f-4a3e-acc8-f7588080ae8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-normal-minicart&quot;)/div[@class=&quot;widget woocommerce widget_shopping_cart&quot;]/div[@class=&quot;widget_shopping_cart_content&quot;]/ul[@class=&quot;woocommerce-mini-cart cart_list product_list_widget&quot;]/li[@class=&quot;woocommerce-mini-cart-item mini_cart_item&quot;]/span[@class=&quot;quantity&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>2dab0434-81d3-4dc6-89ac-d2b83bb09927</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-normal-minicart']/div/div/ul/li/span/span/bdi</value>
+      <webElementGuid>3aadf4ab-c9d8-483f-8483-84b14dccbe8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::bdi[1]</value>
+      <webElementGuid>d02c01ba-f47b-4f0c-bc20-7b05667b0457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal:'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>587d8745-94ce-42fd-ab00-c2d0cf4959aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15.000']/parent::*</value>
+      <webElementGuid>3c6e2cf5-0d99-4a1f-bc91-0c2290c193c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/bdi</value>
+      <webElementGuid>c472f21d-d626-4fbf-9aa4-be9b326bec6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp15.000' or . = 'Rp15.000')]</value>
+      <webElementGuid>71a092c3-00fd-45f6-93e2-e627125175c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_subtotal</name>
+   <tag></tag>
+   <elementGuidId>2dd4efef-410a-4e39-969c-17b5cde5a717</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order_review']/table/tfoot/tr/td/span/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.cart-subtotal > td > span.woocommerce-Price-amount.amount > bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>1b704291-a791-4c9b-8fcd-e8ea595be1c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp30.090</value>
+      <webElementGuid>136c3cf0-d2cc-4f0d-8d47-cf017317c408</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order_review&quot;)/table[@class=&quot;shop_table woocommerce-checkout-review-order-table&quot;]/tfoot[1]/tr[@class=&quot;cart-subtotal&quot;]/td[1]/span[@class=&quot;woocommerce-Price-amount amount&quot;]/bdi[1]</value>
+      <webElementGuid>a6157d10-b9bb-49c6-81f3-8dcef00f2ba6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order_review']/table/tfoot/tr/td/span/bdi</value>
+      <webElementGuid>2356fae9-aff0-496a-bff4-de9b85a780b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtotal'])[2]/following::bdi[1]</value>
+      <webElementGuid>7452fca8-0a4c-453a-acd0-df9a8113d0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[5]/following::bdi[1]</value>
+      <webElementGuid>d0b93418-fe2c-42b1-bb58-beb1c0216138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>9b5cd2a7-3ab3-4666-8b2a-8c85163ade1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='30.090']/parent::*</value>
+      <webElementGuid>387e2258-ea25-4c99-a67d-29c0fe03e377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tfoot/tr/td/span/bdi</value>
+      <webElementGuid>4c3d6867-080b-408d-97b4-7969b32acf96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Rp30.090' or . = 'Rp30.090')]</value>
+      <webElementGuid>aebaec83-25e4-4314-94e4-9081d3339157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
