@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_203 Add a product then update product qty (Album) (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2b48b3e-f863-459a-97f7-9fa9c1951cab</testCaseGuid>
+</TestCaseEntity>
