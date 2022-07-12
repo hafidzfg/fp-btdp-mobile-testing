@@ -23,9 +23,7 @@ WebUI.navigateToUrl('http://kotakoki.wijaysali.my.id/')
 
 WebUI.click(findTestObject('Homepage/Product/anchor_Product1_AlbumAdd to cart'))
 
-WebUI.click(findTestObject('Homepage/Product/anchor_Product2_Beanie_Add to cart'))
-
-WebUI.verifyElementText(findTestObject('Navigation Bar/CartMini/text_counter_Cart'), '2')
+WebUI.verifyElementText(findTestObject('Navigation Bar/CartMini/text_counter_Cart'), '1')
 
 WebUI.click(findTestObject('Navigation Bar/CartMini/icon_Cart'))
 
