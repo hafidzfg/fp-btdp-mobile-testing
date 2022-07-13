@@ -12,20 +12,21 @@ Name: **Hafidz Firmansyah Ghufara** <br>
 ParticipantID: **KSAT006ONL008**
 
 ## Resources:
-- [Mock Ecommerce Web](https://kotakoki.wijaysali.my.id/) **Proceed with caution!, don't put any of your real payment details there!**
-- Tools: Katalon Studio/Groovy
+- [Mock Ecommerce Web](https://kotakoki.wijaysali.my.id/)
 
 ## Additional documentation
 - **Test plan**: [Test Plan Web Automation Test](/documentation/Web_Automation_Test_Plan.docx)
 - **Test scenario**: [Test Scenario Web Automation Test](/documentation/Web_Automation_Test_Scenario.xlsx)
 
-## Requirements
-- Katalon Studio
+## Test Environment
+- Katalon Studio 8.3.5/Groovy
 - Java 1.8
+- Chrome 103
+- Windows 11
 
 ## Concepts implemented
 - Manual & script test case creation
-- Web UI Testing
+- Web UI Testing common method
 - Conditional (if-else) statement (TC 105, TC 303)
 - String to integer parsing
 - Data driven test (TC 303)
