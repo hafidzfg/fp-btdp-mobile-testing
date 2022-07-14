@@ -4,7 +4,7 @@ This repository is (1/3) of a 3-part final project. <br>
 
 Be sure to check out my other submissions: <br>
 - [API Test Automation](https://github.com/hafidzfg/fp-btdp-api-testing) 
-- [Mobile Demo Bank App Test Automation](https://github.com/hafidzfg/fp-btdp-web-test)
+- [Mobile Demo Bank App Test Automation](https://github.com/hafidzfg/fp-btdp-mobile-test)
 
 ## Made by:
 
